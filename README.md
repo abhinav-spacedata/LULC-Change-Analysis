@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Project Update (Notice):** > This version (v1.0) was a **Synthetic Simulation** created for conceptual modeling. It uses simulated data for initial framework testing. 
+> 
+> 🛰️ **Real-world Verified Research:** I am currently upgrading this project to **v2.0**, which integrates real-time NASA Landsat-9 satellite data and Aditya-L1 solar irradiance data. 
+> 
+> **Status:** Please **wait for v2.0** for validated scientific results.
+
 # LULC Change Analysis & Urban Heat Island Projection (2045) - Delhi NCR
 
 ## 1. 💻 Source Code
